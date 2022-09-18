@@ -1,1 +1,1 @@
-This is the second branch read me
+Quick test of a Student object using jest
